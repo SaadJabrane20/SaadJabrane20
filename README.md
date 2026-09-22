@@ -1,5 +1,13 @@
 # Hey, I'm Saad 👋
 
+---
+
+## 📊 42 / 1337 Stats
+
+[![sajabran's 42 stats](https://badge.mediaplus.ma/greenbinary/sajabran)](https://github.com/oakoudad/badge42)
+
+---
+
 ### 💻 Software Engineering & Cybersecurity Student @ 1337 Coding School
 
 I'm a software engineering and cybersecurity student from **Morocco**, currently building my foundations through the hands-on curriculum at **1337 Coding School**.
@@ -31,11 +39,6 @@ I enjoy understanding how things work under the hood, solving problems, building
 
 ---
 
-## 📊 42 / 1337 Stats
-
-[![sajabran's 42 stats](https://badge.mediaplus.ma/darkblue/sajabran)](https://github.com/oakoudad/badge42)
-
----
 
 ## 🛠️ Technologies & Tools
 
