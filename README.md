@@ -100,20 +100,6 @@ A REST API project built with **Django REST Framework**.
 
 ---
 
-### 🌐 Social Media API
-
-Backend API project focused on building the core functionality of a social platform.
-
-**Focus:**
-
-* API architecture
-* User management
-* Database relationships
-* Authentication
-* CRUD operations
-
----
-
 ### 🧱 Libft
 
 A foundational **C library** project from the 42/1337 curriculum.
@@ -206,13 +192,6 @@ Hands-on curriculum focused on:
 
 Before entering the Common Core, I completed the **1337 Piscine**, an intensive programming selection period focused heavily on C and problem solving.
 
-**Final result:**
-
-```text
-Score: 60 / 100
-Rank: 17 / ~300
-```
-
 The Piscine taught me more than just C.
 
 It taught me how to:
@@ -275,7 +254,7 @@ I'm particularly interested in understanding **why** something works instead of 
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/saad-jabrane/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
