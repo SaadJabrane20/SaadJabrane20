@@ -265,16 +265,6 @@ I'm particularly interested in understanding **why** something works instead of 
 
 ---
 
-## ⚡ Currently Building
-
-```text
-1337 Student Arc: Loading...
-
-████████████████████░░░░  ~80%
-
-C → Algorithms → Systems → Backend → Cybersecurity
-```
-
 > "The goal isn't to know everything.
 > The goal is to become very good at learning."
 
