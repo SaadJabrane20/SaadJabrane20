@@ -4,7 +4,6 @@
 <p align="center">
   <img src="[![sajabran's 42 stats](https://badge.mediaplus.ma/greenbinary/sajabran)](https://github.com/oakoudad/badge42)" alt="Saad Jabrane 1337 Profile Card">
 </p>
-[![sajabran's 42 stats](https://badge.mediaplus.ma/greenbinary/sajabran)](https://github.com/oakoudad/badge42)
 
 ---
 
