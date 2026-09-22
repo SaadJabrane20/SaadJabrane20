@@ -4,7 +4,7 @@
 
 ## 📊 42 / 1337 Stats
 
-[![sajabran's 42 stats](https://badge.mediaplus.ma/darkblue/sajabran)](https://github.com/oakoudad/badge42)
+[![sajabran's 42 stats](https://badge.mediaplus.ma/greenbinary/sajabran)](https://github.com/oakoudad/badge42)
 
 ---
 
