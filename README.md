@@ -44,54 +44,27 @@ I enjoy understanding how things work under the hood, solving problems, building
 
 ---
 
-## 🎓 Education
-
-### 1337 Coding School
-
-**Software Engineering / Common Core**
-
-Morocco · 2026 → 2029
-
-Hands-on curriculum focused on:
-
-* C programming
-* Algorithms
-* Systems programming
-* Linux
-* Software engineering
-* Python
-* Web development
-* Cybersecurity
-* Artificial intelligence
-
----
-
 ## 🛠️ Technologies & Tools
 
-### Languages
+<div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+Languages
 
-### Backend
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge\&logo=django\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+Backend
 
-### Systems & Development
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+Systems & Development
 
-### Cybersecurity
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
-![Linux Security](https://img.shields.io/badge/Linux%20Security-333333?style=for-the-badge\&logo=linux\&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge\&logo=cisco\&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2C2C2C?style=for-the-badge\&logo=hackthebox\&logoColor=white)
+Cybersecurity
+
+<img src="https://img.shields.io/badge/Linux%20Security-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Security"> <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"> <img src="https://img.shields.io/badge/Cybersecurity-2C2C2C?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity">
+
+</div>
 
 ---
 
@@ -110,7 +83,7 @@ A backend SaaS project built with **Python, Django and Django REST Framework**.
 * Backend business logic
 * API development
 
-🔗 [View Repository](https://github.com/SaadJabrane20/Bookify.git)
+🔗 [View Repository](https://github.com/SaadJabrane20/Bookify)
 
 </details>
 
@@ -126,7 +99,7 @@ A foundational **C library** project from the 42/1337 curriculum, focused on reb
 * Dynamic allocation
 * Low-level C programming
 
-🔗 [View Repository](https://github.com/SaadJabrane20/Libft.git)
+🔗 [View Repository](https://github.com/SaadJabrane20/Libft)
 
 </details>
 
@@ -143,7 +116,7 @@ A 42/1337 curriculum project implementing a simplified version of the C `printf`
 * Integer and hexadecimal conversions
 * Modular C programming
 
-🔗 [View Repository](https://github.com/SaadJabrane20/ft_printf.git)
+🔗 [View Repository](https://github.com/SaadJabrane20/ft_printf)
 
 </details>
 
