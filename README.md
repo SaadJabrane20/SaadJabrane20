@@ -112,20 +112,6 @@ A backend SaaS project built with **Python, Django and Django REST Framework**.
 
 ---
 
-### 🍋 Little Lemon API
-
-A REST API project built with **Django REST Framework**.
-
-**Focus:**
-
-* RESTful API design
-* Serializers
-* Authentication
-* Permissions
-* Database interactions
-
----
-
 ### 🧱 Libft
 
 A foundational **C library** project from the 42/1337 curriculum.
