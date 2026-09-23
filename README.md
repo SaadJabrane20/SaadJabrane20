@@ -200,7 +200,8 @@ A 42/1337 curriculum project implementing a simplified version of the C `printf`
 
 ---
 
-> "A computer is like a violin. You can imagine it making beautiful music, but you have to learn how to play it."
+> "A computer is like a violin. You can imagine it making beautiful music,
+> but you have to learn how to play it."
 
 ---
 
