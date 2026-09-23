@@ -27,6 +27,7 @@ I enjoy understanding how things work under the hood, solving problems, building
 ```
 
 ---
+<img align="right" alt="GIF" src="https://github.com/abraham-kwizera/abraham-kwizera/blob/main/animation/animation-hero.gif?raw=true" height="300"/>
 
 ## 🧑‍💻 About Me
 
@@ -38,6 +39,7 @@ I enjoy understanding how things work under the hood, solving problems, building
 * 🐍 Building experience with **Python, Django and REST APIs**
 * 🚀 Learning by building projects and solving problems
 * 🇲🇦 Based in Morocco
+
 
 ---
 
