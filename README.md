@@ -4,7 +4,6 @@
   <img src="https://badge.mediaplus.ma/greenbinary/sajabran" alt="Saad Jabrane 1337 Profile Card">
 </p>
 
-
 ---
 
 ### 💻 Software Engineering & Cybersecurity Student @ 1337 Coding School
