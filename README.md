@@ -4,7 +4,6 @@
   <img src="https://badge.mediaplus.ma/greenbinary/sajabran" alt="Saad Jabrane 1337 Profile Card">
 </p>
 
-
 ## 🔥 Streak Stats
 
   <p align="center">
@@ -12,8 +11,6 @@
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SaadJabrane20's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=SaadJabrane20&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
   </p>
-
-
 
 ### 💻 Software Engineering & Cybersecurity Student @ 1337 Coding School
 
@@ -31,8 +28,6 @@ I enjoy understanding how things work under the hood, solving problems, building
       └── Cybersecurity
 ```
 
-
-
 ## 🧑‍💻 About Me
 
 * 🎓 Software Engineering & Cybersecurity student at **1337 Coding School**
@@ -41,8 +36,6 @@ I enjoy understanding how things work under the hood, solving problems, building
 * 🐧 Linux enthusiast
 * 🐍 Building experience with **Python, Django and REST APIs**
 * 🚀 Learning by building projects and solving problems
-
-
 
 ## 🛠️ Technologies & Tools
 
@@ -65,8 +58,6 @@ Cybersecurity
 <img src="https://img.shields.io/badge/Linux%20Security-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Security"> <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"> <img src="https://img.shields.io/badge/Cybersecurity-2C2C2C?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity">
 
 </div>
-
-
 
 ## 🚀 Featured Projects
 
@@ -120,9 +111,6 @@ A 42/1337 curriculum project implementing a simplified version of the C `printf`
 
 </details>
 
-
-
-
 ## 📜 Certifications & Training
 
 * **ALX Back-End Development**
@@ -131,9 +119,6 @@ A 42/1337 curriculum project implementing a simplified version of the C `printf`
 * **Google Foundations of Cybersecurity**
 * **ALX Professional Foundations**
 * **ALX Cybersecurity**
-<- **ISC2 Certified in Cybersecurity (CC)**->
-
-
 
 ## 🎯 Current Goals
 
@@ -150,8 +135,6 @@ A 42/1337 curriculum project implementing a simplified version of the C `printf`
 * 🐧 Become highly comfortable with Linux and systems
 * 🧠 Develop strong algorithmic problem-solving skills
 * 🚀 Build real-world projects that solve real problems
-
-
 
 ## 📫 Connect With Me
 
@@ -170,11 +153,6 @@ A 42/1337 curriculum project implementing a simplified version of the C `printf`
   </a>
 </p>
 
-
-
-
 > *"A computer is like a violin. You can imagine it making beautiful music, but you have to learn how to play it."*
-
-
 
 ⭐ Feel free to explore my repositories and follow the journey.
