@@ -5,7 +5,7 @@
 </p>
 
 ---
-## 🔥 Streak Stats & Languages
+## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadJabrane20&theme=algolia" alt="temitope" /></p>
 
 ---
@@ -40,6 +40,27 @@ I enjoy understanding how things work under the hood, solving problems, building
 * 🚀 Learning by building projects and solving problems
 * 🇲🇦 Based in Morocco
 
+---
+
+## 🎓 Education
+
+### 1337 Coding School
+
+**Software Engineering / Common Core**
+
+Morocco · 2026 → 2029
+
+Hands-on curriculum focused on:
+
+* C programming
+* Algorithms
+* Systems programming
+* Linux
+* Software engineering
+* Python
+* Web development
+* Cybersecurity
+* Artificial intelligence
 
 ---
 
@@ -156,28 +177,6 @@ Cybersecurity
 ├── Authentication
 └── Secure Development
 ```
-
----
-
-## 🎓 Education
-
-### 1337 Coding School
-
-**Software Engineering / Common Core**
-
-Morocco · 2026 → 2029
-
-Hands-on curriculum focused on:
-
-* C programming
-* Algorithms
-* Systems programming
-* Linux
-* Software engineering
-* Python
-* Web development
-* Cybersecurity
-* Artificial intelligence
 
 ---
 
