@@ -6,7 +6,6 @@
 
 ---
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadJabrane20&theme=algolia" alt="SaadJabrane" /></p>
 
   <p align="center">
     <a href="https://github.com/SaadJabrane20/github-readme-streak-stats">
