@@ -9,7 +9,6 @@
 
   <p align="center">
     <a href="https://github.com/SaadJabrane20/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SaadJabrane20's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=SaadJabrane20&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
   </p>
@@ -33,7 +32,6 @@ I enjoy understanding how things work under the hood, solving problems, building
 ```
 
 ---
-<img align="right" alt="GIF" src="https://github.com/abraham-kwizera/abraham-kwizera/blob/main/animation/animation-hero.gif?raw=true" height="300"/>
 
 ## 🧑‍💻 About Me
 
@@ -41,10 +39,8 @@ I enjoy understanding how things work under the hood, solving problems, building
 * 🔐 Interested in **Cybersecurity, Network Security & Secure Software Development**
 * ⚙️ Interested in **Backend Development & Systems Programming**
 * 🐧 Linux enthusiast
-* 🧠 Currently strengthening my foundations in **C, algorithms and computer systems**
 * 🐍 Building experience with **Python, Django and REST APIs**
 * 🚀 Learning by building projects and solving problems
-* 🇲🇦 Based in Morocco
 
 ---
 
@@ -84,15 +80,12 @@ Hands-on curriculum focused on:
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge\&logo=django\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### Systems & Development
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ### Cybersecurity
 
@@ -104,7 +97,10 @@ Hands-on curriculum focused on:
 
 ## 🚀 Featured Projects
 
-### 📚 Bookify — Django / REST API
+## 🚀 Featured Projects
+
+<details>
+<summary>📚 <strong>Bookify — Django / REST API</strong></summary>
 
 A backend SaaS project built with **Python, Django and Django REST Framework**.
 
@@ -116,59 +112,43 @@ A backend SaaS project built with **Python, Django and Django REST Framework**.
 * Backend business logic
 * API development
 
----
+🔗 [View Repository](https://github.com/SaadJabrane20/Bookify.git)
 
-### 🧱 Libft
+</details>
 
-A foundational **C library** project from the 42/1337 curriculum.
+<details>
+<summary>🧱 <strong>Libft — C Library</strong></summary>
 
-The project focuses on rebuilding common C library functions from scratch while developing a deeper understanding of:
+A foundational **C library** project from the 42/1337 curriculum, focused on rebuilding standard C library functions from scratch.
 
-* Pointers
-* Memory management
-* Strings
-* Arrays
+**Focus:**
+
+* Pointers & memory management
+* Strings & arrays
 * Dynamic allocation
 * Low-level C programming
-* Defensive programming
 
----
+🔗 [View Repository](https://github.com/SaadJabrane20/Libft.git)
 
-## 🧠 What I'm Currently Learning
+</details>
 
-```text
-C
-├── Pointers
-├── Memory Management
-├── Linked Lists
-├── File Descriptors
-└── Variadic Functions
+<details>
+<summary>🖨️ <strong>ft_printf — C</strong></summary>
 
-Algorithms
-├── Arrays & Strings
-├── Hash Tables
-├── Linked Lists
-├── Stacks & Queues
-├── Binary Search
-├── Trees
-├── BFS / DFS
-├── Recursion
-└── Backtracking
+A 42/1337 curriculum project implementing a simplified version of the C `printf` function from scratch.
 
-Backend
-├── Python
-├── Django
-├── Django REST Framework
-├── SQL
-└── API Design
+**Focus:**
 
-Cybersecurity
-├── Networking
-├── Linux
-├── Security Fundamentals
-├── Authentication
-└── Secure Development
-```
+* Variadic functions
+* Format specifiers
+* String and character handling
+* Integer and hexadecimal conversions
+* Modular C programming
+
+🔗 [View Repository](https://github.com/SaadJabrane20/ft_printf.git)
+
+</details>
+
 
 ---
 
@@ -180,7 +160,7 @@ Cybersecurity
 * **Google Foundations of Cybersecurity**
 * **ALX Professional Foundations**
 * **ALX Cybersecurity**
-* **ISC2 Certified in Cybersecurity (CC)**
+<- **ISC2 Certified in Cybersecurity (CC)**->
 
 ---
 
@@ -190,13 +170,11 @@ Cybersecurity
 
 * Complete the 1337 Common Core foundations
 * Strengthen C and low-level programming
-* Improve algorithms and problem solving
 * Build stronger Python/backend projects
 * Develop deeper Linux and networking knowledge
 
 ### Long Term
 
-* 🛡️ Become a strong cybersecurity professional
 * ⚙️ Build secure and reliable backend systems
 * 🐧 Become highly comfortable with Linux and systems
 * 🧠 Develop strong algorithmic problem-solving skills
