@@ -97,8 +97,6 @@ Hands-on curriculum focused on:
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 <details>
 <summary>📚 <strong>Bookify — Django / REST API</strong></summary>
 
@@ -202,8 +200,7 @@ A 42/1337 curriculum project implementing a simplified version of the C `printf`
 
 ---
 
-> "The goal isn't to know everything.
-> The goal is to become very good at learning."
+> "A computer is like a violin. You can imagine it making beautiful music, but you have to learn how to play it."
 
 ---
 
