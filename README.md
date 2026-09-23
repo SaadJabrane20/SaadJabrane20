@@ -4,7 +4,7 @@
   <img src="https://badge.mediaplus.ma/greenbinary/sajabran" alt="Saad Jabrane 1337 Profile Card">
 </p>
 
----
+
 ## 🔥 Streak Stats
 
   <p align="center">
@@ -13,7 +13,7 @@
     </a>
   </p>
 
----
+
 
 ### 💻 Software Engineering & Cybersecurity Student @ 1337 Coding School
 
@@ -31,7 +31,7 @@ I enjoy understanding how things work under the hood, solving problems, building
       └── Cybersecurity
 ```
 
----
+
 
 ## 🧑‍💻 About Me
 
@@ -42,7 +42,7 @@ I enjoy understanding how things work under the hood, solving problems, building
 * 🐍 Building experience with **Python, Django and REST APIs**
 * 🚀 Learning by building projects and solving problems
 
----
+
 
 ## 🛠️ Technologies & Tools
 
@@ -66,7 +66,7 @@ Cybersecurity
 
 </div>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -121,7 +121,7 @@ A 42/1337 curriculum project implementing a simplified version of the C `printf`
 </details>
 
 
----
+
 
 ## 📜 Certifications & Training
 
@@ -133,7 +133,7 @@ A 42/1337 curriculum project implementing a simplified version of the C `printf`
 * **ALX Cybersecurity**
 <- **ISC2 Certified in Cybersecurity (CC)**->
 
----
+
 
 ## 🎯 Current Goals
 
@@ -151,7 +151,7 @@ A 42/1337 curriculum project implementing a simplified version of the C `printf`
 * 🧠 Develop strong algorithmic problem-solving skills
 * 🚀 Build real-world projects that solve real problems
 
----
+
 
 ## 📫 Connect With Me
 
@@ -171,11 +171,11 @@ A 42/1337 curriculum project implementing a simplified version of the C `printf`
 </p>
 
 
----
+
 
 > A computer is like a violin. You can imagine it making beautiful music,
 > but you have to learn how to play it.
 
----
+
 
 ⭐ Feel free to explore my repositories and follow the journey.
