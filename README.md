@@ -191,50 +191,6 @@ Hands-on curriculum focused on:
 
 ---
 
-## 🏊 1337 Piscine
-
-Before entering the Common Core, I completed the **1337 Piscine**, an intensive programming selection period focused heavily on C and problem solving.
-
-The Piscine taught me more than just C.
-
-It taught me how to:
-
-* Debug under pressure
-* Read unfamiliar code
-* Search for solutions independently
-* Understand pointers and memory
-* Solve problems with limited information
-* Collaborate with other students
-* Keep going when the solution isn't obvious
-
----
-
-## 💡 My Approach to Learning
-
-I prefer learning by **building and solving problems** rather than only studying theory.
-
-My current workflow is:
-
-```text
-Learn
-  ↓
-Understand
-  ↓
-Implement
-  ↓
-Break it
-  ↓
-Debug it
-  ↓
-Understand why it broke
-  ↓
-Improve
-```
-
-I'm particularly interested in understanding **why** something works instead of simply memorizing how to use it.
-
----
-
 ## 🎯 Current Goals
 
 ### Short Term
