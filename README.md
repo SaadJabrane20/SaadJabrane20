@@ -1,8 +1,6 @@
 # Hey, I'm Saad 👋
 
-<p align="center">
-  <img src="https://badge.mediaplus.ma/darkgrey/sajabran" alt="Saad Jabrane 1337 Profile Card">
-</p>
+[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/sajabran)](https://github.com/oakoudad/badge42)
 
 ## 🔥 Streak Stats
 
