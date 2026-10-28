@@ -1,7 +1,7 @@
 # Hey, I'm Saad 👋
 
 <p align="center">
-  <img src="https://badge.mediaplus.ma/greenbinary/sajabran" alt="Saad Jabrane 1337 Profile Card">
+  <img src="https://badge.mediaplus.ma/darkgrey/sajabran" alt="Saad Jabrane 1337 Profile Card">
 </p>
 
 ## 🔥 Streak Stats
