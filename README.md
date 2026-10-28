@@ -94,23 +94,6 @@ A foundational **C library** project from the 42/1337 curriculum, focused on reb
 
 </details>
 
-<details>
-<summary>🖨️ <strong>ft_printf — C</strong></summary>
-
-A 42/1337 curriculum project implementing a simplified version of the C `printf` function from scratch.
-
-**Focus:**
-
-* Variadic functions
-* Format specifiers
-* String and character handling
-* Integer and hexadecimal conversions
-* Modular C programming
-
-🔗 [View Repository](https://github.com/SaadJabrane20/ft_printf)
-
-</details>
-
 ## 📜 Certifications & Training
 
 * **ALX Back-End Development**
