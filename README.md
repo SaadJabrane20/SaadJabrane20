@@ -1,6 +1,6 @@
 # Hey, I'm Saad 👋
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/sajabran)](https://github.com/oakoudad/badge42)
+[![sajabran's 42 stats](https://badge.mediaplus.ma/darkblue/sajabran)](https://github.com/oakoudad/badge42)
 
 ## 🔥 Streak Stats
 
