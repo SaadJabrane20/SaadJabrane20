@@ -9,14 +9,6 @@
 * 🐍 Building experience with **Python, Django and REST APIs**
 * 🚀 Learning by building projects and solving problems
 
-## 🔥 Streak Stats
-
-  <p align="center">
-    <a href="https://github.com/SaadJabrane20/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SaadJabrane20's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=SaadJabrane20&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>
-  </p>
-
 ### 💻 Software Engineering & Cybersecurity Student @ 1337 Coding School
 
 I'm a software engineering and cybersecurity student from **Morocco**, currently building my foundations through the hands-on curriculum at **1337 Coding School**.
@@ -32,6 +24,13 @@ I enjoy understanding how things work under the hood, solving problems, building
       ├── Python & Backend Development
       └── Cybersecurity
 ```
+## 🔥 Streak Stats
+
+  <p align="center">
+    <a href="https://github.com/SaadJabrane20/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SaadJabrane20's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=SaadJabrane20&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>
 
 ## 🛠️ Technologies & Tools
 
