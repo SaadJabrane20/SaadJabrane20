@@ -1,5 +1,14 @@
 # Hey, I'm Saad 👋
 
+## 🧑‍💻 About Me
+
+* 🎓 Software Engineering & Cybersecurity student at **1337 Coding School**
+* 🔐 Interested in **Cybersecurity, Network Security & Secure Software Development**
+* ⚙️ Interested in **Backend Development & Systems Programming**
+* 🐧 Linux enthusiast
+* 🐍 Building experience with **Python, Django and REST APIs**
+* 🚀 Learning by building projects and solving problems
+
 ## 🔥 Streak Stats
 
   <p align="center">
@@ -23,15 +32,6 @@ I enjoy understanding how things work under the hood, solving problems, building
       ├── Python & Backend Development
       └── Cybersecurity
 ```
-
-## 🧑‍💻 About Me
-
-* 🎓 Software Engineering & Cybersecurity student at **1337 Coding School**
-* 🔐 Interested in **Cybersecurity, Network Security & Secure Software Development**
-* ⚙️ Interested in **Backend Development & Systems Programming**
-* 🐧 Linux enthusiast
-* 🐍 Building experience with **Python, Django and REST APIs**
-* 🚀 Learning by building projects and solving problems
 
 ## 🛠️ Technologies & Tools
 
