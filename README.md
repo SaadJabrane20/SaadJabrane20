@@ -1,7 +1,7 @@
 # Hey, I'm Saad 👋
 
 ## 🧑‍💻 About Me
-<a href="https://www.elite-1337.app"><img src="https://www.elite-1337.app/api/card/273148.svg?t=T6v4UW4OvewjOCVjZt1rtp3vafOy3Tg3BgLPpZ9E_Dw&accent=mint" alt="Elite 1337 rank" width="840"></a>
+[![Elite 1337 rank](https://www.elite-1337.app/api/card/273148.svg?t=T6v4UW4OvewjOCVjZt1rtp3vafOy3Tg3BgLPpZ9E_Dw&accent=mint)](https://www.elite-1337.app)
 
 * 🎓 Software Engineering & Cybersecurity student at **1337 Coding School**
 * 🔐 Interested in **Cybersecurity, Network Security & Secure Software Development**
